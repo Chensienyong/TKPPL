@@ -33,14 +33,14 @@ Akan muncul
 isi dari perubahan mu
 lalu batas dengan '='
 isi dari commit anggota yang lain sebelumnya yang mengalami bentrok dan menyebabkan ambigu
->>>>>> {id commit}
+baris dengan '>' {id commit}
 **********
 disaat itulah anda perlu melihat apa yang berbeda antara perubahan anda dengan teman anda dan pilihlah perubahan yang benar. Dan diharapkan menghubungi anggota yang melakukan commit tersebut agar dapat berdiskusi mana yang benar dan mana yang digunakan.
 **********
 Lalu hapus
 <<<<<<<<<< HEAD
 batas '='
-dan >>>>>>> {id commit}
+dan baris dengan '>' {id commit}
 serta code yang mempunyai kesalahan..
 **********
 Note : Sebelum anda me-pull dari git bash, bila ada yang belum di commit, diharapkan commit terlebih dahulu.
