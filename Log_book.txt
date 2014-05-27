@@ -1,0 +1,60 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: Theory
+Judul Topik: Iphone6
+Alamat Github: https://github.com/Chensienyong/TKPPL
+Alamat Trello: https://trello.com/b/JzVaRdTz/presentation
+Anggota 1:
+	Nama: Jeffry Tandiono
+	NIM: 12.111.0812
+Anggota 2:
+	Nama: Soewandi Koerniawan Syahputra
+	NIM: 12.111.0162
+Anggota 3:
+	Nama: Alwin Mario
+	NIM: 12.111.1010
+Anggota 4:
+	Nama: Kelvin
+	NIM: 12.111.0031
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 28/5
+Scrummaster: Jeffry Tandiono (12.111.0812)
+
+Sprint 2:
+29/5 - 31/5
+Scrummaster: Soewandi Koerniawan Syahputra (12.111.0162)
+
+Sprint 3: 
+2/6 - 4/6
+Scrummaster: Alwin Mario (12.111.1010)
+
+Sprint 4: 
+5/6 - 7/6
+Scrummaster: Kelvin (12.111.0031)
+
+Progress Harian
+------------------------------------
+
+26/5 
+Daily Scrum
+Jeffry Tandiono:
+1. Hari ini saya menentukan Scrum Master 1-4, mengubah dan menentukan design dasar presentation, membagi tugas backlog dalam Sprint Backlog serta memantau proses Git dan kesulitan yang dialami anggota
+2. Saya ada kendala di proses cloning anggota lain karena clone dengan git bash mereka sukses tetapi tidak bisa push maupun pull
+
+Alwin Mario:
+1. Hari ini saya mengerjakan cloning repository
+2. Saya ada kendala pada saat mengcloning repository dan terjadi beberapa error
+
+Soewandi Koerniawan Syahputra:
+1. Hari ini saya mengerjakan clone repository dan fork pada repository
+2. Saya ada kendala dalam saat cloning repository, saat cloning bespoke tidak berubah sesuai yang telah diclone
+
+Kelvin:
+1. Hari ini saya mengubah html dalam index.jade
+2. Saya ada kendala dalam proses push data ke dalam github
