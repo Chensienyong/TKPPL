@@ -73,10 +73,10 @@ Alwin Mario:
 
 Soewandi Koerniawan Syahputra:
 1. Kemarin kerjakan clone repository dan fork
-2. Hari ini edit deskripsi
+2. Hari ini membuat slide kelebihan
 3. Kendala dalam merge
 
 Kelvin:
 1. Kemarin mengerjakan html dalam index.jade
 2. Hari ini desain cover dan edit foto
-3. Belum menemukan masalah
+3. Mengalami kendala dalam merge
