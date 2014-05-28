@@ -80,3 +80,25 @@ Kelvin:
 1. Kemarin mengerjakan html dalam index.jade
 2. Hari ini desain cover dan edit foto
 3. Mengalami kendala dalam merge
+
+28/5
+Daily Scrum
+Jeffry Tandiono:
+1. Kemarin saya mengerjakan pengeditan cover, list dan pantau git dan commits
+2. Hari ini saya mengerjakan specification
+3. Tidak mempunyai masalah sejauh ini
+
+Alwin Mario:
+1. semalam buat section description dan list anggota
+2. Hari ini yang akan d kerjakan mendesain section description
+3. kendala dalam mengcoding
+
+Soewandi Koerniawan Syahputra:
+1. Kemarin kerjakan clone repository dan fork
+2. Hari ini membuat slide kelebihan
+3. Belum ada kendala
+
+Kelvin:
+1. Semalam desain cover dan edit foto
+2. Hari ini edit css, merge manual, tambah deskripsi spesifikasi
+3. Sejauh ini blm ada masalah yg mengganggu
