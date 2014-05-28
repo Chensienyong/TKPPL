@@ -58,3 +58,25 @@ Soewandi Koerniawan Syahputra:
 Kelvin:
 1. Hari ini saya mengubah html dalam index.jade
 2. Saya ada kendala dalam proses push data ke dalam github
+
+27/5
+Daily Scrum
+Jeffry Tandiono:
+1. Kemarin saya mengerjakan design dasar presentation, membagi tugas backlog dalam Sprint serta membantu anggota dalam proses git yang bermasalah
+2. Hari ini saya mengerjakan pengeditan cover, list dan memantau git serta mengajarkan merge
+3. Sejauh ini tidak ada, hanya saja apabila terjadi kembali ke commit sebelum nya belum dicari tahu karena menggunakan git bash, tidak menggunakan source tree
+
+Alwin Mario:
+1. Kemarin kan clone repo
+2. hari ini mengerjakan deskripsi beserta list anggota
+3. masalah dalam mendesain section yang dibikin
+
+Soewandi Koerniawan Syahputra:
+1. Kemarin kerjakan clone repository dan fork
+2. Hari ini membuat slide kelebihan
+3. Kendala dalam merge
+
+Kelvin:
+1. Kemarin mengerjakan html dalam index.jade
+2. Hari ini desain cover dan edit foto
+3. Mengalami kendala dalam merge
