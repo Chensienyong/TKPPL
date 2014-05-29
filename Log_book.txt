@@ -102,3 +102,25 @@ Kelvin:
 1. Semalam desain cover dan edit foto
 2. Hari ini edit css, merge manual, tambah deskripsi spesifikasi
 3. Sejauh ini blm ada masalah yg mengganggu
+
+29/5
+Daily Scrum
+Jeffry Tandiono
+1. Semalam mengerjakan spesifikasi
+2. Hari ini merapikan css dan memulai ukuran layar
+3. Tidak mempunyai masalah sejauh ini
+
+Alwin Mario:
+1. kemarin edit CSS
+2. Hari ini yang akan dikerjakan tanggal rilis
+3. kendala dalam mentranslate
+
+Soewandi Koerniawan Syahputra:
+1. Kemarin edit css di slide Kelebihan
+2. Hari ini Pergantian Scrum master dimana saya yang menjadi Scrum Master kali ini, yang akan dikerjakan slide Desain
+3. Belum ada kendala
+
+Kelvin:
+1. Semalam desain cover dan edit foto
+2. Hari ini edit css, merge manual, tambah deskripsi spesifikasi
+3. Sejauh ini blm ada masalah yg mengganggu
