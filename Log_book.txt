@@ -128,9 +128,9 @@ Kelvin:
 30/5
 Daily Scrum
 Jeffry Tandiono
-1. Semalam merapikan css dan memulai ukuran layar
-2. Hari ini membuat section Ukuran layar
-3. Tidak mempunyai masalah sejauh ini
+1. Semalam saya merapikan css dan memulai slide ukuran layar
+2. Hari ini saya akan mengganti kalimat dalam tanggal liris dan menyelesaikan slide ukuran layar.
+3. Masalah yang menjadi kendala adalah tiap anggota mempunyai taste yang berbeda dalam design, sehingga harus saling mengerti..
 
 Alwin Mario:
 1. kemarin yang dikerjakan tanggal rilis
