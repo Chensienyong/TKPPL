@@ -124,3 +124,25 @@ Kelvin:
 1. Semalam edit css, merge manual, tambah deskripsi spesifikasi
 2. Hari ini edit css, tambah slide desain baru pada iphone6, desain cover + h2
 3. Sejauh ini blm ada masalah yg mengganggu
+
+30/5
+Daily Scrum
+Jeffry Tandiono
+1. Semalam merapikan css dan memulai ukuran layar
+2. Hari ini membuat section Ukuran layar
+3. Tidak mempunyai masalah sejauh ini
+
+Alwin Mario:
+1. kemarin yang dikerjakan tanggal rilis
+2. Hari ini menambahkan section price
+3. kendala dalam mentranslate kalimat yang akan digunakan di dalam section price
+
+Soewandi Koerniawan Syahputra:
+1. Kemarin yang dikerjakan slide Desain
+2. Hari ini menambahkan penjelasan pada ukuran layar
+3. Belum ada kendala
+
+Kelvin:
+1. Semalam edit css, merge manual, tambah deskripsi spesifikasi
+2. Hari ini mengerjakan tambah slide tanggal +css +gambar
+3. Sejauh ini blm ada masalah yg mengganggu
