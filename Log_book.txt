@@ -161,8 +161,8 @@ Alwin Mario:
 
 Soewandi Koerniawan Syahputra:
 1. Kemarin menambahkan penjelasan pada ukuran layar
-2. Hari ini +css untuk desain dan perbaiki slide harga
-3. Kendala pada floating dan tampilan yang menarik
+2. Hari ini +css untuk desain dan perbaiki slide harga + link pada tampilan layar
+3. Kendala pada floating dan tampilan yang menarik, css pada link contoh a:hover tidak bisa berjalan (tdk berubah warna)
 
 Kelvin:
 1. Semalam mengerjakan tambah slide tanggal +css +gambar
