@@ -143,6 +143,6 @@ Soewandi Koerniawan Syahputra:
 3. Belum ada kendala
 
 Kelvin:
-1. Semalam edit css, merge manual, tambah deskripsi spesifikasi
+1. Semalam edit css, tambah slide desain baru pada iphone6, desain cover + h2
 2. Hari ini mengerjakan tambah slide tanggal +css +gambar
 3. Sejauh ini blm ada masalah yg mengganggu
