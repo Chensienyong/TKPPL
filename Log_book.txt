@@ -146,3 +146,25 @@ Kelvin:
 1. Semalam edit css, tambah slide desain baru pada iphone6, desain cover + h2
 2. Hari ini mengerjakan tambah slide tanggal +css +gambar
 3. Sejauh ini blm ada masalah yg mengganggu
+
+31/5
+Daily Scrum
+Jeffry Tandiono
+1. Semalam saya mengganti kalimat dalam tanggal liris dan menyelesaikan slide ukuran layar.
+2. Hari ini saya mengedit section price dan penambahan css
+3. Masalah yang dialami adalah padatnya waktu sehingga susah berkreasi.
+
+Alwin Mario:
+1. kemarin yang dikerjakan menambahkan section price
+2. Hari ini yang akan dikerjakan mengubah css tidak ada kendala hari ini 
+3. tidak ada kendala hari ini 
+
+Soewandi Koerniawan Syahputra:
+1. Kemarin menambahkan penjelasan pada ukuran layar
+2. Hari ini +css untuk desain dan perbaiki slide harga
+3. Kendala pada floating dan tampilan yang menarik
+
+Kelvin:
+1. Semalam mengerjakan tambah slide tanggal +css +gambar
+2. Hari ini edit css+desain+perbaiki slide harga
+3. Kendala dalam menyusun css untuk setiap desain.
