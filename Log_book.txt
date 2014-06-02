@@ -156,8 +156,8 @@ Jeffry Tandiono
 
 Alwin Mario:
 1. kemarin yang dikerjakan menambahkan section price
-2. Hari ini yang akan dikerjakan mengubah css tidak ada kendala hari ini 
-3. tidak ada kendala hari ini 
+2. Hari ini yang akan dikerjakan mengubah css
+3. tidak ada kendala hari ini
 
 Soewandi Koerniawan Syahputra:
 1. Kemarin menambahkan penjelasan pada ukuran layar
@@ -168,3 +168,25 @@ Kelvin:
 1. Semalam mengerjakan tambah slide tanggal +css +gambar
 2. Hari ini edit css+desain+perbaiki slide harga
 3. Kendala dalam menyusun css untuk setiap desain.
+
+02/6
+Daily Scrum
+Jeffry Tandiono:
+1. Dua hari lalu saya mengedit section price dan penambahan css
+2. Hari ini saya memulai slide charger + css nya
+3. masalah yang dialami terlalu banyak tugas
+
+Alwin Mario:
+1. Dua hari lalu saya mengedit css
+2. Hari ini saya mengerjakan slide resolution
+3. Kendala dalam menerjemahkan bahan yang diambil
+
+Soewandi Koerniawan Syahputra:
+1.Dua Hari lalu +css untuk desain dan perbaiki slide harga + link pada tampilan layar
+2.hari ini saya mengerjakan slide kamera
+3.kendala belum ada
+
+kelvin:
+1.Semalam edit css, tambah slide desain baru pada ipbone 6, desain cover + h2
+2.Hari ini tambah desain + slide resolusi + memulai slide camera
+3.Kendala Belum ada
