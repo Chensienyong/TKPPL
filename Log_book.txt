@@ -193,6 +193,11 @@ kelvin:
 
 03/6
 Daily Scrum
+Jeffry Tandiono:
+1. Semalam saya memulai slide charger + css nya
+2. Hari ini mengedit slide charger dan memperbaiki slide home button
+3. Sejauh ini tidak punya kendala
+
 Kelvin:
 1. Semalam tambah desain + slide resolusi + memulai slide camera
 2. Hari ini selesaikan slide camera Dan tambah desain
