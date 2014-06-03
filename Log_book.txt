@@ -174,7 +174,7 @@ Daily Scrum
 Jeffry Tandiono:
 1. Dua hari lalu saya mengedit section price dan penambahan css
 2. Hari ini saya memulai slide charger + css nya
-3. masalah yang dialami terlalu banyak tugas
+3. Kendala yang dialami terlalu banyak tugas
 
 Alwin Mario:
 1. Dua hari lalu saya mengedit css
@@ -182,11 +182,23 @@ Alwin Mario:
 3. Kendala dalam menerjemahkan bahan yang diambil
 
 Soewandi Koerniawan Syahputra:
-1.Dua Hari lalu +css untuk desain dan perbaiki slide harga + link pada tampilan layar
-2.hari ini saya mengerjakan slide kamera
-3.kendala belum ada
+1. Dua Hari lalu +css untuk desain dan perbaiki slide harga + link pada tampilan layar
+2. hari ini saya mengerjakan slide kamera
+3. kendala belum ada
 
 kelvin:
-1.Semalam edit css, tambah slide desain baru pada ipbone 6, desain cover + h2
-2.Hari ini tambah desain + slide resolusi + memulai slide camera
-3.Kendala Belum ada
+1. Dua Hari lalu edit css, tambah slide desain baru pada ipbone 6, desain cover + h2
+2. Hari ini tambah desain + slide resolusi + memulai slide camera
+3. Kendala Belum ada
+
+03/6
+Daily Scrum
+Kelvin:
+1. Semalam tambah desain + slide resolusi + memulai slide camera
+2. Hari ini selesaikan slide camera Dan tambah desain
+3. Kendala belum ada
+
+Alwin Mario:
+1. semalam saya mengerjakan slide resolution
+2. Hari ini Mengerjakan slide home button
+3. kendala dalam menemukan bahan
