@@ -213,3 +213,24 @@ Kelvin:
 2. Hari ini selesaikan slide camera Dan tambah desain
 3. Kendala belum ada
 
+04/6
+Daily Scrum
+Jeffry Tandiono :
+1. Semalam saya mengedit slide charger dan memperbaiki slide home button
+2. Hari ini saya memperbaiki slide yang salah
+3. Kendala tidak ada
+
+Alwin Mario :
+1. Semalam saya Mengerjakan slide home button
+2. Hari ini mengedit css
+3. Kendala belum ada
+
+Soewandi Koerniawan Syahputra :
+1. semalam edit charger sama home button
+2. hari ini edit2 slide charger sama home button
+3. kendala belum ada
+
+Kelvin :
+1. Semalam selesaikan slide camera Dan tambah desain
+2. Hari ini selesaikan slide camera dan ukuran layar
+3. Kendala tidak ada
