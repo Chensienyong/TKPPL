@@ -193,17 +193,20 @@ kelvin:
 
 03/6
 Daily Scrum
-
-
-Soewandi Koerniawan Syahputra:
-1. Semalam saya mengerjakan slide kamera
-2. hari ini edit charger dan mulai home button
-3. kendala pencarian sumber
+Jeffry Tandiono:
+1. Semalam saya memulai slide charger + css nya
+2. Hari ini mengedit slide charger dan memperbaiki slide home button
+3. Sejauh ini tidak punya kendala
 
 Alwin Mario:
 1. semalam saya mengerjakan slide resolution
 2. Hari ini Mengerjakan slide home button
 3. kendala dalam menemukan bahan
+
+Soewandi Koerniawan Syahputra:
+1. Semalam saya mengerjakan slide kamera
+2. hari ini edit charger dan mulai home button
+3. kendala pencarian sumber
 
 Kelvin:
 1. Semalam tambah desain + slide resolusi + memulai slide camera
