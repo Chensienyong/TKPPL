@@ -193,12 +193,20 @@ kelvin:
 
 03/6
 Daily Scrum
-Kelvin:
-1. Semalam tambah desain + slide resolusi + memulai slide camera
-2. Hari ini selesaikan slide camera Dan tambah desain
-3. Kendala belum ada
+
+
+Soewandi Koerniawan Syahputra:
+1. Semalam saya mengerjakan slide kamera
+2. hari ini edit charger dan mulai home button
+3. kendala pencarian sumber
 
 Alwin Mario:
 1. semalam saya mengerjakan slide resolution
 2. Hari ini Mengerjakan slide home button
 3. kendala dalam menemukan bahan
+
+Kelvin:
+1. Semalam tambah desain + slide resolusi + memulai slide camera
+2. Hari ini selesaikan slide camera Dan tambah desain
+3. Kendala belum ada
+
