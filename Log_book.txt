@@ -234,3 +234,27 @@ Kelvin :
 1. Semalam selesaikan slide camera Dan tambah desain
 2. Hari ini selesaikan slide camera dan ukuran layar
 3. Kendala tidak ada
+
+================================================================================================================================
+
+05/6
+Daily Scrum
+Jeffry Tandiono :
+1. Semalam saya memperbaiki slide yang salah.
+2. Hari ini saya memulai slide ketebalan dan mengecek slide sebelumnya.
+3. -
+
+Alwin Mario :
+1. Semalam saya mengedit css.
+2. Hari ini memulai slide feature.
+3. Kendala dalam menemukan bahan dan mentranslate nya.
+
+Soewandi Koerniawan Syahputra :
+1. semalam saya edit2 slide charger sama home button.
+2. hari ini buat slide fitur.
+3. -
+
+Kelvin :
+1. Semalam saya selesaikan slide camera dan ukuran layar
+2. Hari ini memulai menyiapkan desain yang berantakan + memasukan bahan yang terdapat pada sprint.
+3. Pengalaman hari pertama jadi scrum master.
