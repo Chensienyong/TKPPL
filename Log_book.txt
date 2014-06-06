@@ -258,3 +258,27 @@ Kelvin :
 1. Semalam saya selesaikan slide camera dan ukuran layar
 2. Hari ini memulai menyiapkan desain yang berantakan + memasukan bahan yang terdapat pada sprint.
 3. Pengalaman hari pertama jadi scrum master.
+
+================================================================================================================================
+
+06/6
+Daily Scrum
+Jeffry Tandiono :
+1. Semalam saya menambah reaource untuk galeri.
+2. Hari ini saya memperbaiki slide feature.
+3. -
+
+Alwin Mario :
+1. Semalam saya memulai slide feature.
+2. Hari ini memulai slide ketebalan.
+3. -
+
+Soewandi Koerniawan Syahputra :
+1. semalam saya buat slide feature.
+2. hari ini buat slide galeri.
+3. -
+
+Kelvin :
+1. Semalam saya memulai menyiapkan desain yang berantakan + memasukan bahan yang terdapat pada sprint.
+2. Hari ini saya membuat slide galeri, dan masih mengedit desain keseluruhan slide.
+3. -
