@@ -241,7 +241,7 @@ Kelvin :
 Daily Scrum
 Jeffry Tandiono :
 1. Semalam saya memperbaiki slide yang salah.
-2. Hari ini saya memulai slide ketebalan dan mengecek slide sebelumnya.
+2. Hari ini saya menambah resource untuk galeri.
 3. -
 
 Alwin Mario :
@@ -264,7 +264,7 @@ Kelvin :
 06/6
 Daily Scrum
 Jeffry Tandiono :
-1. Semalam saya menambah reaource untuk galeri.
+1. Semalam saya menambah resource untuk galeri.
 2. Hari ini saya memperbaiki slide feature.
 3. -
 
