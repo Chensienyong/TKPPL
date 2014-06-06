@@ -280,5 +280,5 @@ Soewandi Koerniawan Syahputra :
 
 Kelvin :
 1. Semalam saya memulai menyiapkan desain yang berantakan + memasukan bahan yang terdapat pada sprint.
-2. Hari ini saya membuat slide galeri, dan masih mengedit desain keseluruhan slide.
+2. Hari ini saya membuat slide galeri + memperbaiki isi slide ketebalan + fitur, dan masih mengedit desain keseluruhan slide.
 3. -
