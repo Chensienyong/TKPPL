@@ -282,3 +282,28 @@ Kelvin :
 1. Semalam saya memulai menyiapkan desain yang berantakan + memasukan bahan yang terdapat pada sprint.
 2. Hari ini saya membuat slide galeri + memperbaiki isi slide ketebalan + fitur, dan masih mengedit desain keseluruhan slide.
 3. -
+
+
+================================================================================================================================
+
+07/6
+Daily Scrum
+Jeffry Tandiono :
+1. Semalam saya memperbaiki slide feature.
+2. Hari ini saya membuat slide gallery.
+3. -
+
+Alwin Mario :
+1. Semalam saya memulai slide ketebalan.
+2. Hari ini mendesain slide-slide.
+3. -
+
+Soewandi Koerniawan Syahputra :
+1. semalam saya memulai buat slide galeri.
+2. hari ini mengedit slide-slide.
+3. -
+
+Kelvin :
+1. Semalam saya membuat slide galeri + memperbaiki isi slide ketebalan + fitur, dan masih mengedit desain keseluruhan slide.
+2. Hari ini saya memeriksa slide yang dibuat kelompok dan memulai untuk menyiapkan slide secara keseluruhan.
+3. -
